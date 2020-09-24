@@ -135,3 +135,8 @@ a {
 b {
     text-transform: uppercase;
 }
+
+p2 {
+    display: inline;
+    text-transform: none;
+}
